@@ -4,7 +4,6 @@ GitHub is an online platform where programmers store, manage, share, and collabo
 Think of GitHub like Google Drive for coding projects, but it has many special features for developers.
 You can upload this entire project to GitHub. 
 Then you can:
-
 💾 Keep a backup of your code
 🌐 Access your code from anywhere
 👨‍💻 Show your projects to companies/recruiters 
