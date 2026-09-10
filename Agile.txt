@@ -7,7 +7,7 @@ Then you can:
 
 💾 Keep a backup of your code
 🌐 Access your code from anywhere
-👨‍💻 Show your projects to companies/recruiters
+👨‍💻 Show your projects to companies/recruiters 
 🤝 Work with other developers
 🕐 Keep track of changes
 🔙 Go back to an older version if something breaks
