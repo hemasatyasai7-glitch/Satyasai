@@ -1,2 +1,13 @@
 This is my first file in agile. Github is interesting to work and to create files.
 This github is very useful in my college. I created many files in my pc through github. 
+GitHub is an online platform where programmers store, manage, share, and collaborate on their code/projects.
+Think of GitHub like Google Drive for coding projects, but it has many special features for developers.
+You can upload this entire project to GitHub. 
+Then you can:
+
+💾 Keep a backup of your code
+🌐 Access your code from anywhere
+👨‍💻 Show your projects to companies/recruiters
+🤝 Work with other developers
+🕐 Keep track of changes
+🔙 Go back to an older version if something breaks
